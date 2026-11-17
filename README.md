@@ -1,5 +1,7 @@
-# TypeScript Practice Problems
-
+# Assignment detail overview
+## Link of the blogs
+1. Type vs inaterface: https://github.com/PeyaraFul/next-level-a1/blob/main/type-vs-interface.md
+2. Union and intersection: https://github.com/PeyaraFul/next-level-a1/blob/main/union-and-intersection.md
 
 ## Overview
 
@@ -18,3 +20,7 @@ I practiced the following 8 problems:
  06  Pluck Values - Generics, keyof, Indexed Access Types (T[K]), Array Mapping (map) 
  07  Employee and Manager Classes - Classes, Inheritance, Constructors, super(), Access Modifiers (protected and private) 
  08  Validate Age Async - Async Functions, Promises, resolve(), reject(), setTimeout(), Error Handling 
+
+
+
+ --- PEYERAFUL ---
